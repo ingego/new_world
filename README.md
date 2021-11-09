@@ -15,15 +15,15 @@
 setup new world window size and cord ( X = 0, Y=0,W= 1280, H= 720)
 
 
-### start Fish and bot
+### start fishing with bot
 1. login new world 
-2. search and go to lake or ocean
-3. start fish 
+2. go to lake or ocean
+3. start fishing 
 4. run python code 
-5. fun) 
+5. have fun) 
 
-### next future 
-* repair fish rod 
+### Coming updates  
+* repair fishing rod 
 * camera control 
 * create a windows skin 
 * send notif. 
