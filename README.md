@@ -1,4 +1,4 @@
-invite discord ( https://discord.gg/KzTc8jsN  Ru DS) 
+
 # Fish Bot ( New World ) 
 
 * How to start fish bot 
