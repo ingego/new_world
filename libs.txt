@@ -1,0 +1,5 @@
+numpy==1.21.4
+opencv-python==4.5.4.58
+Pillow==8.4.0
+mss==6.1.0
+PyAutoGUI==0.9.53

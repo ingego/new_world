@@ -16,5 +16,5 @@ def fish():
     time.sleep(1)
     pyautogui.mouseDown()
     
-    time.sleep(2)
+    time.sleep(0.3)
     pyautogui.mouseUp()
