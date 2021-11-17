@@ -6,6 +6,7 @@ import  time
 from datetime import datetime
 import pyautogui
 
+#test
 #print(":")
 from mouseclicker import smartGetFish
 def fish(): 
